@@ -1,0 +1,9 @@
+{
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none",
+  "reportOptionalMemberAccess": "none",
+  "reportOptionalSubscript": "none",
+  "reportArgumentType": "none",
+  "extraPaths": [],
+  "exclude": ["**/__pycache__"]
+}
